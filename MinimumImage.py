@@ -20,7 +20,7 @@ import numpy as np
 def MinimumImage(x, y, L1, L2):
     ''' 
     Function to calculate minimum distance between two numpy
-    vectors x, y, in a 2D square lattice with basis vector
+    vectors x, y, in a 2D hexagonal lattice with basis vector
     two numpy vectors L1 and L2.
     '''
     
